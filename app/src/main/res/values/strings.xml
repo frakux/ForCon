@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FormularioDeContacto</string>
+    <string name="Nombre">Nombre Completo</string>
+    <string name="texttelefono">Telefono</string>
+    <string name="textemail">Email</string>
+    <string name="Textdescripcion">Descripcion</string>
+    <string name="textBuSigui">Siguiente</string>
+    <string name="textFechNaci">Dia/Mes/Año</string>
+    <string name="textBotSelFechaNaci">Seleccionar Fecha de Nacimiento</string>
+</resources>
